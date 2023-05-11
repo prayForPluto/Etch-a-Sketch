@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    width: 352px;
+    height: 352px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-color: lightgray;
+    border-width: thin;
+    border-style: solid;
+}
+
+.box {
+    border-color: lightgray;
+    border-width: thin;
+    border-style: solid;
+    background-color: white;
+    width: 20px;
+    height: 20px;
+}
